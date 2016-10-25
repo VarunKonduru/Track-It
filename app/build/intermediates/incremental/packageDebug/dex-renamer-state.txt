@@ -1,0 +1,7 @@
+#Sun Oct 23 12:02:41 EDT 2016
+base.0=/Users/macfgf/Downloads/Track It/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_93f9cb7b06eca2a0362790ecf08c25256744cc27
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/macfgf/Downloads/Track It/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0b1f1c9827e306aec8a8f489210f42feb1a1a65c/classes.dex
+base.1=/Users/macfgf/Downloads/Track It/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0b1f1c9827e306aec8a8f489210f42feb1a1a65c
+file.0=/Users/macfgf/Downloads/Track It/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_93f9cb7b06eca2a0362790ecf08c25256744cc27/classes.dex
